@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Welcome Page
+    </title>
+
+    <link rel="stylesheet" type="text/css" href="./home.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>home</li>
+            <li>about</li>
+            <li>services</li>
+            <li>contacts</li>
+            <li>careers</li>
+        </ul>
+    </nav>
+    <section class="container" id="section1">
+        <h1 style="padding:20px;font-size: 30px;">Welcome Page</h1>
+    </section>
+    <section class="container" id="section2"></section>
+    <section class="container" id="section3"></section>
+
+</body>
+
+</html>
